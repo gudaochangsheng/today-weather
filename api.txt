@@ -1,0 +1,2 @@
+2df0b00b583d4b3f8ed4b48687981e04
+https://free-api.heweather.net/s6/weather/now?location=beijing&key=2df0b00b583d4b3f8ed4b48687981e04
